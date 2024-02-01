@@ -1,3 +1,4 @@
 colorama==0.4.4
 PyAutoGUI==0.9.53
 keyboard==0.13.5
+pillow>=10.2.0 # not directly required, pinned by Snyk to avoid a vulnerability
